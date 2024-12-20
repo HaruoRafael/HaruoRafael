@@ -11,10 +11,7 @@
 
  
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HaruoRafael}/count.svg" /></p> 
-<br></div>
+
 
 ![snake gif](https://github.com/HaruoRafael/HaruoRafael/blob/output/github-snake-dark.svg)
 
