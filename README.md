@@ -16,5 +16,8 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{HaruoRafael}/count.svg" /></p> 
 <br></div>
 
+![snake gif](https://github.com/HaruoRafael/HaruoRafael/blob/output/github-snake-dark.svg)
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
